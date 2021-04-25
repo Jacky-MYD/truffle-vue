@@ -18,7 +18,7 @@ npm run serve
 truffle compile
 ```
 
-### Compile Solidity
+### Migrate Solidity
 ```
 truffle migrate
 ```
